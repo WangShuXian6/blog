@@ -1,14 +1,16 @@
 * home
     * [首页]()
-* ECMA
-    * [ES6_Promise_理解1-函数](ECMA/ES6_Promise_理解1-函数)
-    * [ES6_Promise_理解2-类实例](ECMA/ES6_Promise_理解2-类实例)
-    * [ES6_Promise_理解3-Promise_all](ECMA/ES6_Promise_理解3-Promise_all)
-    * [Promise和generator](ECMA/Promise和generator)
-    * [es7_async_await_简单示例](ECMA/es7_async_await_简单示例)
 * Design_Pattern
     * [观察者模式的实现和使用](Design_Pattern/观察者模式的实现和使用)
 * Mac
     * [mac](Mac/mac)
 * Git
     * [git](Git/git)
+* ECMA
+    * [ES6_Promise_理解1-函数](ECMA/ES6_Promise_理解1-函数)
+    * [ES6_Promise_理解2-类实例](ECMA/ES6_Promise_理解2-类实例)
+    * [ES6_Promise_理解3-Promise_all](ECMA/ES6_Promise_理解3-Promise_all)
+    * [Promise和generator](ECMA/Promise和generator)
+    * [es7_async_await_简单示例](ECMA/es7_async_await_简单示例)
+
+
