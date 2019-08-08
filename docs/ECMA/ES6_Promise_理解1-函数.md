@@ -1,6 +1,7 @@
-# ES6 Promise 理解1-函数
+### ES6 Promise 理解1-函数
 
->1-普通函数
+#### 1-普通函数
+
 ```javascript
 function asyncFun(a, b, cb) {
     setTimeout(function () {
@@ -16,7 +17,7 @@ console.log(2)
 //3
 ```
 >
->2-promise产生的原因，回调嵌套，回调地狱，糟糕的逻辑
+#### 2-promise产生的原因，回调嵌套，回调地狱，糟糕的逻辑
 ```javascript
 //promise产生的原因，回调嵌套，回调地狱，糟糕的逻辑
 function asyncFun(a, b, cb) {
@@ -38,7 +39,7 @@ asyncFun(1, 2, function (result) {
 
 console.log(2)
 ```
->3-去掉回调函数，用promise优化逻辑
+#### 3-去掉回调函数，用promise优化逻辑
 ```javascript
 function asyncFun(a, b) {
     return new Promise(function (resolve, reject) {
@@ -61,7 +62,7 @@ console.log(2)
 //2
 //1
 ```
->4-promise 多次返回Promise
+#### 4-promise 多次返回Promise
 ```javascript
 function asyncFun(a, b) {
     return new Promise(function (resolve, reject) {
@@ -93,7 +94,7 @@ console.log(2)
 //3
 //ok
 ```
->5-promise-捕获异常1
+#### 5-promise-捕获异常1
 ```javascript
 function asyncFun(a, b) {
     return new Promise(function (resolve, reject) {
@@ -142,7 +143,7 @@ console.log(2)
 // at <anonymous>:21:1
 
 ```
->6-promise-捕获异常2
+#### 6-promise-捕获异常2
 ```javascript
 //,去掉回调函数，用promise优化逻辑
 function asyncFun(a, b) {
@@ -191,9 +192,5 @@ console.log(2)
 // at new Promise (<anonymous>)
 // at asyncFun (<anonymous>:4:9)
 // at <anonymous>:21:1
-
-```
->7
-```javascript
 
 ```
