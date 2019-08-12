@@ -52,6 +52,7 @@
         depth: 6
       },
       plugins: [
+        EditOnGithubPlugin.create('https://github.com/WangShuXian6/blog/tree/master/docs/'),
         // EditOnGithubPlugin.create(docBase, docEditBase, title),
         function (hook, vm) {
           hook.doneEach(function () {
