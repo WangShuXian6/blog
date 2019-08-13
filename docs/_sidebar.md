@@ -1,5 +1,47 @@
 * home
     * [首页]()
+* Javascript utils
+    * [Javascript utils](Javascript_utils/Javascript工具函数整理)
+    * [加密库](Javascript_utils/加密库)
+    * [时间](Javascript_utils/时间)
+    * [校验](Javascript_utils/校验)
+    * [匹配](Javascript_utils/匹配)
+    * [移动相关](Javascript_utils/移动相关)
+    * [DOM](Javascript_utils/DOM)
+    * [网络请求](Javascript_utils/网络请求)
+    * [最佳实践](Javascript_utils/最佳实践)
+    * [使用字典格式重构多条件判断语句](Javascript_utils/使用字典格式重构多条件判断语句)
+* 微信小程序
+    * [微信小程序](微信小程序/微信小程序)
+    * [小程序API注意事项](微信小程序/小程序API注意事项)
+    * [小程序UI组件库](微信小程序/小程序UI组件库)
+    * [小程序原生使用第三方库](微信小程序/小程序原生使用第三方库)
+    * [小程序生命周期](微信小程序/小程序生命周期)
+    * [小程序参数传递](微信小程序/小程序参数传递)
+    * [小程序打包上传的时候设置忽略某个文件夹](微信小程序/小程序打包上传的时候设置忽略某个文件夹)
+    * [小程序抽象组件](微信小程序/小程序抽象组件)
+    * [Behavior](微信小程序/Behavior)
+    * [小程序canvas](微信小程序/小程序canvas)
+    * [小程序代码片段](微信小程序/小程序代码片段)
+    * [小程序二维码](微信小程序/小程序二维码)
+    * [小程序 UI](微信小程序/小程序UI)
+    * [小程序 选择图片 上传图片](微信小程序/小程序_选择图片_上传图片)
+    * [小程序自定义顶部导航栏_添加背景图_自定义返回按钮](微信小程序/小程序自定义顶部导航栏_添加背景图_自定义返回按钮)
+    * [小程序模版消息](微信小程序/模版消息)
+    * [小程序登陆后获取加密信息_手机号等信息_流程](微信小程序/小程序登陆后获取加密信息_手机号等信息_流程)
+    * [小程序异常](微信小程序/小程序异常)
+* 节流-防抖-wait-promise-异步Timer
+    * [开始](节流_防抖_wait-promise_异步Timer/开始)
+* javascript对象多种表现
+    * [开始](javascript对象多种表现/README)
+* React-Redux
+    * [开始](React_Redux/README)
+    * [计数器示例-版本1](React_Redux/计数器示例-版本1)
+    * [计数器示例-版本2](React_Redux/计数器示例-版本2)
+* Redux
+    * [开始](Redux/README)
+    * [计数器示例](Redux/计数器示例)
+    * [redux-actions，(use async action) 异步动作的使用](Redux/redux-actions异步动作的使用)
 * React
     * [安装](React/安装)
     * [React最佳实践](React/React最佳实践)
@@ -36,6 +78,7 @@
     * [观察者模式的实现和使用](Design_Pattern/观察者模式的实现和使用)
 * Mac
     * [mac](Mac/mac)
+    * [Mac mini更换机械硬盘为固态硬盘](Mac/Mac_mini更换机械硬盘为固态硬盘)
 * Git
     * [git](Git/git)
 * ECMA
@@ -44,5 +87,7 @@
     * [ES6_Promise_理解3-Promise_all](ECMA/ES6_Promise_理解3-Promise_all)
     * [Promise和generator](ECMA/Promise和generator)
     * [es7_async_await_简单示例](ECMA/es7_async_await_简单示例)
+    * [ES7 对象展开运算符,Object Spread notation](ECMA/ES7_对象展开运算符_Object_Spread_notation)
+    * [JavaScript 并发模型与事件循环](ECMA/JavaScript并发模型与事件循环)
 
 
