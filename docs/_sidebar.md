@@ -5,6 +5,9 @@
     * [应用的基本结构](Flask/应用的基本结构.md)
     * [模板](Flask/模板.md)
     * [Web 表单](Flask/Web表单.md)
+    * [数据库](Flask/数据库.md)
+    * [电子邮件 Flask-Mail](Flask/电子邮件_Flask_Mail.md)
+    * [大型应用的结构](Flask/大型应用的结构.md)
 * keyframes Animation 帧动画
     * [GKA 简单的高效的帧动画生成工具](keyframes_Animation_帧动画/GKA_简单的高效的帧动画生成工具.md)
 * seafile
