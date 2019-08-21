@@ -41,6 +41,7 @@
 * Python
     * [开始](Python/README.md)
     * [虚拟环境](Python/虚拟环境.md)
+    * [Python进阶 （Intermediate Python 中文版）](Python/Python进阶.md)
 * Oimo.js
     * [开始](Oimojs/README.md)
     * [World](Oimojs/World.md)
