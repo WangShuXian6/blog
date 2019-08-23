@@ -3,11 +3,11 @@ image: alpine:latest
 pages:
   stage: deploy
   script:
-  - mkdir .public
-  - cp -r docs/ .public
-  - mv .public public
+  - mkdir .docs
+  - cp -r docs/ .docs
+  - mv .docs docs
   artifacts:
     paths:
-    - public
+    - docs
   only:
   - master
