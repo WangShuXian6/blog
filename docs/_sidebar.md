@@ -1,5 +1,11 @@
 * home
     * [首页]()
+* @hapi/boom
+    * [开始](hapi_boom/README.md)
+    * [Boom对象](hapi_boom/该Boom对象还支持以下方法.md)
+    * [辅助方法](hapi_boom/辅助方法.md)
+    * [HTTP_4xx错误](hapi_boom/HTTP_4xx错误.md)
+    * [HTTP_5xx错误](hapi_boom/HTTP_5xx错误.md)
 * Flask
     * [开始](Flask/README.md)
     * [应用的基本结构](Flask/应用的基本结构.md)
