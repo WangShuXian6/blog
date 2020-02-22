@@ -1,11 +1,9 @@
-image: node:12-alpine
+image: alpine:latest
 
 pages:
   stage: deploy
   script:
-  - mkdir .public
-  - cp -r docs/. public
-  - mv .public public
+  - echo 'Nothing to do...'
   artifacts:
     paths:
     - public
