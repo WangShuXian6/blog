@@ -395,3 +395,13 @@
     * [JavaScript 并发模型与事件循环](ECMA/JavaScript并发模型与事件循环.md)
 
 
+### Section X
+```plantuml
+@startuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+@enduml
+```

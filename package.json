@@ -1,0 +1,31 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "#### 博客内容详见  Issues 或 [github blog][1] 或 [gitlab blog][2] [1]:https://wangshuxian6.github.io/blog/ [2]:https://wangshuxian6.gitlab.io/blog/",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "docsify serve docs",
+    "dev1": "node_modules/docsify-cli/bin/docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WangShuXian6/blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WangShuXian6/blog/issues"
+  },
+  "homepage": "https://github.com/WangShuXian6/blog#readme"
+}
