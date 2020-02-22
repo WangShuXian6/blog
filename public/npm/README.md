@@ -1,2 +1,0 @@
-#### npm
->node package manager
